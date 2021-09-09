@@ -18,7 +18,6 @@ The primary problem of this project is to identify human action recognition by c
 * `supporting_evidence/`
 > - Meeting Minutes
 > - Study Notes for imbalanced data classfication
-> - Parameter Tuning Records
 > - Reference Links
 
 ## Data
