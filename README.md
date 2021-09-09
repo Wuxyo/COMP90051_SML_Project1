@@ -15,7 +15,7 @@ The primary problem of this project is to identify human action recognition by c
 > jupter notebooks for modelling of LR, RF, SVM, XGBoost, CNN, LSTM
 * ` Group10_Final_Report.pdf` 
 > Final project report of this project
-* `supporting_evidence`
+* `supporting_evidence/`
 > - Meeting Minutes
 > - Study Notes for imbalanced data classfication
 > - Parameter Tuning Records
