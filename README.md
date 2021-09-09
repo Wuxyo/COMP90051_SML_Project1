@@ -11,7 +11,7 @@ This is project 1 of COMP90051 Statistical Machine Learning course at the Univer
 The primary problem of this project is to identify human action recognition by classifying the behaviour based on a sample of 3D joints movements sequences. In addition, the distribution of behaviour categories is highly skewed in the given data, this leads to another problem --- imbalanced data classification. In this project, we implement classical machine learning and neural network methods to address these problems. The proposed models will be compared and evaluated regarding the overall performance of the Kaggle competition and the Accuracy(ACC) score. 
 
 ## Directories & Files
-* `data/` 
+* `code/` 
 > jupter notebooks for modelling of LR, RF, SVM, XGBoost, CNN, LSTM
 * ` Group10_Final_Report.pdf` 
 > Final project report of this project
