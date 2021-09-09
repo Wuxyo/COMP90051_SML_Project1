@@ -1,6 +1,6 @@
 # COMP90051 Statistical Machine Learning - Project 1 
 
-This is project 1 of COMP90051 Statistical Machine Learning course at the University of Melbourne.
+This is the project 1 of COMP90051 Statistical Machine Learning course at the University of Melbourne.
 
 ## Group Members
 #### Group Name: Hunter
@@ -12,7 +12,7 @@ The primary problem of this project is to identify human action recognition by c
 
 ## Directories & Files
 * `code/` 
-> jupter notebooks for modelling of LR, RF, CNN, LSTM, SVM and XGBoost
+> jupyter notebooks for modelling of LR, RF, CNN, LSTM, SVM and XGBoost
 * ` Group10_Final_Report.pdf` 
 > Final project report of this project
 * `supporting_evidence/`
