@@ -12,7 +12,7 @@ The primary problem of this project is to identify human action recognition by c
 
 ## Directories & Files
 * `code/` 
-> jupter notebooks for modelling of LR, RF, SVM, XGBoost, CNN, LSTM
+> jupter notebooks for modelling of LR, RF, CNN, LSTM, SVM and XGBoost
 * ` Group10_Final_Report.pdf` 
 > Final project report of this project
 * `supporting_evidence/`
@@ -27,9 +27,9 @@ The given training data contains 9388 sequences of 3D joint movements with 960 f
 Logistic Regression, Random Forest, SVM, XGboost, CNN and LSTM are used to categorize human behaviour from 3D joints movement sequences and handle the data imbalance.
 * `Logistic_Regression.ipynb` 
 * `Random_Forest.ipynb`
+* `dl.ipynb`
 * `SVM.ipynb`
 * `XGBoost.ipynb`
-* `.ipynb`
 
 
 For detailed information, please refer to the project report. Thank you!
