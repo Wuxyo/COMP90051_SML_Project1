@@ -24,7 +24,7 @@ The primary problem of this project is to identify human action recognition by c
 The given training data contains 9388 sequences of 3D joint movements with 960 features, which belong to 49 classes. For validating the model, we randomly split 20% data from the given training dataset as the validation set and the rest of the data will be used for training models. Another test data with 2859 sequences will be used for generating the final classification and evaluation.
 
 ## Approaches
-Logistic Regression, Random Forest, SVM, XGboost, CNN and LSTM are used to categorize human behaviour from 3D joints movement sequences and handle the data imbalance.
+Logistic Regression, Random Forest, CNN, LSTM, SVM and XGboost,are used to categorize human behaviour from 3D joints movement sequences and handle the data imbalance.
 * `Logistic_Regression.ipynb` 
 * `Random_Forest.ipynb`
 * `dl.ipynb`
